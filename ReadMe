@@ -1,0 +1,5 @@
+This is a website which I developed using Python3.8 and Flask, Jinja2, CSS, HTML.It is a responsive website where anyone can add their contact info and message and that information will be mailed to my account. Moreover, i have addded some functionalities like /login for redirecting to a login page, /register for registering yourself as a new user.Apart from these, There is a forgot passowrd,Reset passoword page available too!
+The data is stored in PostgreSQL database which is connect using SQLAlchemy in Python app. Security features are also added so that the registered users Password is not visible to everyone in thr database.
+The website is styled using Bootstrap4 theme, whose link is given inside the website itself.
+
+You can find the requirements of running this app in the requirements.txt file.
